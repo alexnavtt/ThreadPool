@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# ROS Stuff
+CATKIN_IGNORE
+build/
